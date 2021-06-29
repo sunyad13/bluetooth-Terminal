@@ -36,7 +36,7 @@ import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "DEBUG_MA";
+    private static final String TAG = "DEBUG_MA" ;
 
     Button buttonSendMessage;
     Button buttonBTConnect;
